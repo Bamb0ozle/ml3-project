@@ -39,4 +39,5 @@ https://www.katnoria.com/nb_dqn_lunar/
 
 https://hub.packtpub.com/openai-gym-environments-wrappers-and-monitors-tutorial/
 
-DQN Tutorial prepared by Damian Dailisan for ML3 Session, May 2023. Tutorial was used as a starting point of this work.****
+DQN Tutorial prepared by Damian Dailisan for ML3 Session, May 2023. Tutorial was used as a starting point of this work.
+****
