@@ -7,6 +7,7 @@ The models were trained over 1 million iterations which are labelled "target_net
 <h2>The six models used:</h2>
 
 Model 1: No wrapper, wind enabled (WE)
+
 Model 2: WE + Additional action of firing both side engines simultaneously
 Model 3: WE + Multiplying rewards between 0 and 100 by 1.5
 Model 4: Model 2 + Model 3
