@@ -3,6 +3,7 @@
 The details of the project are located in the ipynb and html file. 
 
 A short preview is available in Medium: 
+
 https://smescalante.medium.com/i-trained-6-ais-to-land-a-lunar-lander-and-one-dominates-all-af4d8af1aa0c
 
 The models were trained over 1 million iterations which are labelled <i>target_net_1000000_model{number}.pt</i>.
