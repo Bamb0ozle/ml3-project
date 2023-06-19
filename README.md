@@ -22,12 +22,21 @@ Model 6: Model 5, but change multipliers for reward and penalty
 
 <h2>References</h2>
 https://keras.io/examples/rl/deep_q_network_breakout/
+
 https://stable-baselines3.readthedocs.io/en/master/modules/dqn.html
+
 https://stable-baselines.readthedocs.io/en/master/guide/examples.html#basic-usage-training-saving-loading
+
 https://goodboychan.github.io/python/reinforcement_learning/pytorch/udacity/2021/05/07/DQN-LunarLander.html
+
 https://gymnasium.farama.org/
+
 https://deeplearning.neuromatch.io/projects/ReinforcementLearning/lunar_lander.html
+
 https://github.com/yuchen071/DQN-for-LunarLander-v2
+
 https://www.katnoria.com/nb_dqn_lunar/
+
 https://hub.packtpub.com/openai-gym-environments-wrappers-and-monitors-tutorial/
+
 DQN Tutorial prepared by Damian Dailisan for ML3 Session, May 2023. Tutorial was used as a starting point of this work.****
