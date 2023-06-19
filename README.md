@@ -21,6 +21,7 @@ Model 6: Model 5, but change multipliers for reward and penalty
 <b>Configurations of the models can be found in the notebook and html file.</b>
 
 <h2>References</h2>
+
 https://keras.io/examples/rl/deep_q_network_breakout/
 
 https://stable-baselines3.readthedocs.io/en/master/modules/dqn.html
